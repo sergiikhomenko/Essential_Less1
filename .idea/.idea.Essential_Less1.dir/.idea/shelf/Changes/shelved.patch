@@ -1,0 +1,59 @@
+Index: .idea/.idea.Essential_Less1.dir/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.Essential_Less1.dir/.idea/vcs.xml b/.idea/.idea.Essential_Less1.dir/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1713388485051)
++++ b/.idea/.idea.Essential_Less1.dir/.idea/vcs.xml	(date 1713388485051)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.idea.Essential_Less1.dir/.idea/indexLayout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.Essential_Less1.dir/.idea/indexLayout.xml b/.idea/.idea.Essential_Less1.dir/.idea/indexLayout.xml
+new file mode 100644
+--- /dev/null	(date 1713388485063)
++++ b/.idea/.idea.Essential_Less1.dir/.idea/indexLayout.xml	(date 1713388485063)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="UserContentModel">
++    <attachedFolders />
++    <explicitIncludes />
++    <explicitExcludes />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.idea.Essential_Less1.dir/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.Essential_Less1.dir/.idea/.gitignore b/.idea/.idea.Essential_Less1.dir/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1713388485232)
++++ b/.idea/.idea.Essential_Less1.dir/.idea/.gitignore	(date 1713388485232)
+@@ -0,0 +1,13 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Rider ignored files
++/modules.xml
++/projectSettingsUpdater.xml
++/.idea.Essential_Less1.iml
++/contentModel.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
