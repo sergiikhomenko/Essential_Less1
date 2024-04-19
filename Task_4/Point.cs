@@ -7,16 +7,16 @@ namespace Task_4;
  */
 public class Point
 {
-    private int _sideA, _sideB;
+    private int _x, _y;
     private string _line;
-    public int A
+    public int X
     {
-        get { return _sideA; }
+        get { return _x; }
     }
 
-    public int B
+    public int Y
     {
-        get { return _sideB; }
+        get { return _y; }
     }
     
     public string Line
@@ -26,8 +26,8 @@ public class Point
 
     public Point(int num1, int num2, string line)
     {
-        _sideA = num1;
-        _sideB = num2;
+        _x = num1;
+        _y = num2;
         _line = line;
     }
 }
